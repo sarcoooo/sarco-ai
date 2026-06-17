@@ -2,7 +2,7 @@
 // PON AQUÍ TU API
 // ===============================
 
-const API_KEY = "AQ.Ab8RN6I0VlJcjZsvN4wCoZBPQJReWqDoGUDWrK8cGork0XY5WA";
+const API_KEY = "AQ.Ab8RN6I1nWFmyqSb97veogI55WRJuwFUeoO-M-5Hy_YrMH1ptw";
 const MODEL = "gemini-2.5-flash";
 
 // ===============================
