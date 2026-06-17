@@ -1,4 +1,6 @@
-# sarco-ai
-Sarco AI es mi proyecto personal de inteligencia artificial. Lo empecé por curiosidad y por diversión, y voy añadiendo nuevas funciones y mejoras a mi gusto mientras aprendo sobre programación e IA. Sin ánimo de lucro, solo por pasión por la informática.
-# sarco-ai
-Sarco AI es un proyecto personal creado por un chaval de 17 años apasionado por la informática y la inteligencia artificial. Nació por curiosidad y aburrimiento, y poco a poco voy añadiendo funciones, ideas y mejoras que me parecen interesantes. No tiene ánimo de lucro ni pretende ser un producto profesional; es simplemente un espacio para aprender, experimentar y construir cosas nuevas.
+Sarco AI es mi proyecto personal. Lo empecé por curiosidad y por ganas de crear cosas nuevas. Soy un chaval de 17 años al que le encanta la informática, y poco a poco voy añadiendo funciones, ideas y mejoras que se me ocurren mientras experimento con distintas tecnologías, incluida la inteligencia artificial.
+
+No tiene ánimo de lucro ni pretende ser un producto profesional; lo hago por diversión y porque disfruto construyendo cosas nuevas. Al final, Sarco AI es un proyecto hecho con ganas, curiosidad y pasión por la informática.
+
+Muchas gracias por visitarla :) .
+# SI TE SALE ESTO VISITANDO LA WEB, RECARGALA Y YA TE LLEVA A LA IA
