@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarco AI</title>
+    <link rel="icon" type="image/png" href="SARCO AI LOGO SIN FONDO.png">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app">
+
+        <header class="header">
+
+    <div class="logo-container">
+        <img src="SARCO AI LOGO SIN FONDO.png" alt="SARCO Logo" class="logo">
+        <h1>Sarco AI</h1>
+    </div>
+
+    <button id="newChat">Nuevo chat</button>
+
+</header>
+<div id="welcome" class="welcome">
+    <img src="SARCO AI LOGO SIN FONDO.png" class="welcome-logo">
+
+    <h2>¿En qué puedo ayudarte hoy?</h2>
+
+    <p>
+        Sarco, nacido para imaginar sin límites.
+    </p>
+</div>
+
+<main id="chat" class="chat"></main>
+
+        <div class="input-area">
+            <textarea
+                id="messageInput"
+                placeholder="Escribe un mensaje..."
+                rows="1"
+            ></textarea>
+
+            <button id="sendBtn">⌯⌲</button>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</body>
+</html>
